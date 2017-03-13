@@ -17,6 +17,7 @@ public class ClaseDanielPlaton {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Inicio del proyecto");
+        System.out.println("Inicio del proyecto 2");
     }
     
 }
